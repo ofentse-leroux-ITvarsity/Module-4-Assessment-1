@@ -23,3 +23,8 @@ img#logo{
     bottom: 20px;
     right: 10px;
 }
+
+.custom{
+    width: 100px;
+    height: 48px;
+}
